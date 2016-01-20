@@ -1,0 +1,36 @@
+<nav id="{{id}}" class="navbar {{#inverted}}navbar-inverse{{/inverted}}{{^inverted}}navbar-default{{/inverted}} navbar-right navbar-fixed-top">
+  <div class="container">
+    <div class="navbar-header page-scroll full-width">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#menu">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand page-scroll lead" href="#"><img src="img/mexcham-logo-2.jpg"></a>
+      <br class="media-helper">
+      <span class="mexcham-header mexcham-red text-uppercase">
+        <strong>C&aacute;mara de Comercio de M&eacute;xico en China</strong>
+      </span>
+      <span class="mexcham-header">(<span class="mexcham-green">MEX</span><span class="mexcham-red">CHAM</span>)</span>
+      <br>
+      <cite class="mexcham-cite">Sede Beijing, Rep&uacute;blica Popular de China</cite><br>
+      <span class="mexcham-green mexcham-sub text-uppercase"><strong>Cap&iacute;tulo Baj&iacute;o</strong></span><br>
+      <span class="chinese-name">中国墨西哥商会墨西哥中北部</span>
+      <div class="container navbar-bottom">
+        <div class="collapse navbar-collapse" id="menu">
+          <ul class="nav navbar-nav text-fancy">
+            <li><a class="page-scroll" href="#">Inicio</a></li>
+            <li><a class="page-scroll" href="#nosotros">Nosotros</a></li>
+            <!--<li><a class="page-scroll" href="#organigrama">Organigrama</a></li>-->
+            <li><a class="page-scroll" href="#faq">FAQ</a></li>
+            <li><a class="page-scroll" href="#afiliate">Afiliate</a></li>
+            <li><a class="page-scroll" href="#servicios">Servicios</a></li>
+            <li><a class="page-scroll" href="#bolsa">Bolsa de Trabajo</a></li>
+            <li><a class="page-scroll" href="#contacto">Contacto</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</nav>

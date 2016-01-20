@@ -1,0 +1,8 @@
+{
+  "config": {
+    "id": "...",      /* Id of the component: Any valid DOM id. */
+    "inverted": true  /* If key is present and is set to true, style will be set to .navbar-inverse.
+                         Otherwise, it will be set to .navbar-default. */
+    
+  }
+}
