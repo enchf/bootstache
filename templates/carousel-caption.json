@@ -1,0 +1,12 @@
+{
+  "id":"component-id",
+  "images":[
+    {
+      "url":"url/to/image.jpg","desc":"Image Description","index":0,"id":"component-id","active":true,
+      "caption": { "title": "Caption title", "text": "Caption text" }
+    },{
+      "url":"url/to/image.png","desc":"Image Description","index":1,"id":"component-id",
+      "caption": { "title": "Caption title", "text": "Caption text" }
+    }
+  ]
+}
